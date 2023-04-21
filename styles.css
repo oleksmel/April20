@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+.block {
+    width: 300;
+    height: 200;
+    border: 2px solid--#333;
+    background-color: blueviolet;
+}
