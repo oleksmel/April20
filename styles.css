@@ -17,4 +17,6 @@ body {
 .header-block {
     background-color: purple;
 }
-
+.footer-col {
+    background-color: green;
+}
