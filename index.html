@@ -148,16 +148,25 @@
 <fr>
 
 <form action="">
-    <div><label>Your name: <input type="text"></label></div>
+    <div><label>Your name: <input type="text" value="Nick"></label></div>
     <div><label>Telephone: <input type="tel"></label><div>
     <div><label>Your name: <input type="email"></label></div>
     <fieldset>
         <legend>Sushi size</legend>
-        <div><label>Small Set: <input type="radio"></label></div>
-        <div><label>Medium: <input type="text"></label></div>
-        <div><label>Big Set: <input type="text"></label></div>
-        <div><label>Very big set: <input type="text"></label></div>
-    </fieldset>   
+        <div><label>Small Set: <input required type="radio"></label></div>
+        <div><label>Medium: <input required type="radio"></label></div>
+        <div><label>Big Set: <input required type="radio"></label></div>
+        <div><label>Very big set: <input type="radio"></label></div>
+    </fieldset>
+    <fieldset>
+        <legend>Sushi Topping</legend>
+        <div><label>Small Set: <input required type="checkbox"></label></div>
+        <div><label>Medium: <input required type="checkbox"></label></div>
+        <div><label>Big Set: <input required type="checkbox"></label></div>
+        <div><label>Very big set: <input type="checkbox"></label></div>
+    </fieldset>
+    <div><label>Delivery time: <input min="11:00 " max="21:00" required type="time"></label></div>
+    <button>Send</button>   
 </form>
 
 </body>
