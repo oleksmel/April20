@@ -22,12 +22,3 @@ body {
     background-color: purple;
 }
 
-table {
-    border: 1px solid #000;
-}
-th {
-    border: 1px solid #333;
-}
-td {
-    border: 1px solid #333
-}
