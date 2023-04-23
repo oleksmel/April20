@@ -58,6 +58,6 @@ header {
     display: flex;
     justify-content: space-between;
     background-color: brown;
-    height:10vh
-
+    height:10vh;
+    align-items: center;
 }
