@@ -20,3 +20,16 @@ body {
 .footer-col {
     background-color: green;
 }
+
+table {
+    border: 2px solid #000
+}
+
+th {
+    padding: 10px;
+    boedre: 1px solid #000
+}
+td {
+    border:1px dotted #333;
+    padding: 10px;
+}
