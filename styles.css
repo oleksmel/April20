@@ -21,3 +21,7 @@ body {
 .header-block {
     background-color: purple;
 }
+
+table {
+    border: 1px solid #000;
+}
