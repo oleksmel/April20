@@ -61,3 +61,18 @@ header {
     height:10vh;
     align-items: center;
 }
+
+main {
+    display: flex;
+    height: 80vh;
+}
+
+aside {
+    width: 25%;
+    background-color: blueviolet;
+}
+
+section {
+    width: 75%;
+    background-color: violet;
+}
