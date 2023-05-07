@@ -34,7 +34,9 @@ h1 {
     height: 250px;
 }
 
-#board
+#board {
+    color: red;
+}
 
 .container {
     max-width: 1280px;
