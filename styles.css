@@ -21,6 +21,11 @@ h1 {
     font-size: 50px!important;
 }
 
+#block__text p {
+    color: green;
+}
+
+
 .container {
     max-width: 1280px;
     margin: 0 auto;
