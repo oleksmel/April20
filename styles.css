@@ -20,6 +20,8 @@ h1 {
 
 .text__wrapper span {
     color: pink;
+    background-color: blue;
+    font-size: 50px;
 }
 
 #text {
