@@ -10,11 +10,12 @@ body {
 }
 
 h1 {
-    color: yellow!important;
+    color: blue!important;
 }
 
 .text__wrapper {
     font-size: 25px;
+    color: #333;
 }
 
 #text {
@@ -22,7 +23,9 @@ h1 {
 }
 
 #block__text p {
-    color: rgb(128, 62, 0);
+    background-color: green;
+    width: 200px;
+    height: 100px;
 }
 
 
