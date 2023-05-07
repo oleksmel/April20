@@ -18,6 +18,10 @@ h1 {
     color: #333;
 }
 
+.text__wrapper span {
+    color: pink;
+}
+
 #text {
     font-size: 50px!important;
 }
