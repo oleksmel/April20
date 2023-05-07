@@ -10,7 +10,15 @@ body {
 }
 
 h1 {
-    color: yellow !important;
+    color: yellow!important;
+}
+
+.text__wrapper {
+    font-size: 25px;
+}
+
+#text {
+    font-size: 50px;
 }
 
 .container {
