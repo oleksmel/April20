@@ -7,6 +7,8 @@
 body {
     font-family: 'Lato', sans-serif;
     height: 100%;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(105,8,140,1) 44%, rgba(0,212,255,1) 100%);
 }
 
 h1 {
@@ -24,10 +26,10 @@ h1 {
     font-size: 50px;
 }
 
-#text {
+/*#text {
     font-size: 50px!important;
 }
-
+*/
 #block__text p {
     background-color: green;
     width: 100%;
